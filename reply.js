@@ -1,4 +1,5 @@
 // Need to install Node.js
+// To run this code. Type node reply.js in the terminal
 
 // Naive solution
 // Avoid worm holes
@@ -12,6 +13,7 @@ file_name = "01-chilling-cat.txt";
 // file_name = "03-input-anti-greedy.txt";
 // file_name = "04-input-low-points.txt";
 // file_name = "05-input-opposite-points-holes.txt";
+// file_name = "06-input-reply-running-man.txt";
 
 const fs = require("fs");
 let input_raw = "";
