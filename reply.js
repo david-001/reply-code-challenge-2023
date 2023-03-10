@@ -1,3 +1,5 @@
+// Need to install Node.js
+
 // file_name = "00-example.txt";
 file_name = "01-chilling-cat.txt";
 // file_name = "02-swarming-ant.txt";
