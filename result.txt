@@ -1,0 +1,49 @@
+0 0 R R R R R R R R R R R R R R R
+16 0 R R R R R R R R R R R
+29 0 R R R R R R R
+37 0 R R R R R D L L L L L L L L L L L
+0 1 R R R R R R R R R R R R
+13 1 R R R R
+18 1 R R D R R R R U R R R R R R D
+23 1
+0 2 R R R R R R R R R R R D R R R R U R
+13 2 R
+17 2 R R D R R D R R R R R R R R R R R
+26 2 R R R D R R R R R R R R R R R
+31 2 R R R R R R R
+39 2 R R D R D L L L L L L D R R R R R R D
+0 3 R R R R R R R
+8 3 R R
+17 3 R D R R D R R R R R R R R
+23 3 R R R R R
+0 4 R R R R
+5 4 R R R R D R R
+11 4 R R R R R
+17 4 D R R D R R R R R R R R R R R R R
+33 4 R D R D
+0 5 R R R R R R
+7 5 R D R R R R R R R R R R D R R R R R R
+12 5 R R R R
+29 5 R R R R D R D R R R R R R R R
+0 6 R R R R R R R D R R R R R
+36 6 R R R R R
+0 7 R R R R R R D R R R R R
+13 7 D R R R R R R R R R R R R R R R R R R
+15 7 R
+25 7 R R R R R R R R D R R R
+0 8 R R R R
+5 8 D R R R R R R R R R R R R R R R
+12 8
+32 8 D R R R R R R R R R R U L L
+37 8 R R
+0 9 R R R R D
+21 9 R R R R R R R R R R D R R R R
+0 10 R R R D R R R R R R R R R R R R R
+5 10 R R R R R R R R R R R R R
+19 10 D R R R R R R R R R R R R R
+21 10 R R R R R R
+29 10 R
+36 10 R R R R R R D
+0 11 R R D R R R R R
+17 11 R
+33 11 R R R R R R R R D R D L L
