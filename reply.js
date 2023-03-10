@@ -1,5 +1,11 @@
 // Need to install Node.js
 
+// Naive solution
+// Avoid worm holes
+// Stay within bounds of matrix
+// Don't consider weight of each cell. Only consider if cell is occupied or not
+// Move 1 cell at a time, Either Up, Down, Left, Right
+
 // file_name = "00-example.txt";
 file_name = "01-chilling-cat.txt";
 // file_name = "02-swarming-ant.txt";
